@@ -1,4 +1,4 @@
-# Seja bem vindo!
+# Welcome!
 
 👩‍💻My name is **Bruno Ribeiro** <br>
 🎓I'm student of  **Electrical engineering at UFMG**<br>
@@ -18,7 +18,7 @@ Learning about: <br> <br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
  <br> <br>
   
-  Ferramentas que já utilizo: <br> <br>
+  Tools that I use: <br> <br>
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
