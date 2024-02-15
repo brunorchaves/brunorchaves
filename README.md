@@ -2,7 +2,7 @@
 
 👩‍💻 My name is **Bruno Ribeiro** <br>
 🎓 I'm a student of **Electrical Engineering at UFMG**<br>
-💻 **Embedded Systems Developer** at Tix Tecnologia Assistiva<br>
+💻 **Embedded Systems Developer** at CMOS Drake<br>
 
 <div align="center">
   <a href="https://github.com/brunorchaves">
